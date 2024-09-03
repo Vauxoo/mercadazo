@@ -1,0 +1,4 @@
+[submodule "mercadazo"]
+	path = mercadazo
+	url = git@git.vauxoo.com:vauxoo/mercadazo.git
+	branch = 17.0
